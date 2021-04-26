@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.exe
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.deps.json
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.json
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.dll
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\ref\RectangleArea.dll
+C:\Codelearnershub\Assessment2\RectangleArea\bin\Debug\net5.0\RectangleArea.pdb
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.dll
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\ref\RectangleArea.dll
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.pdb
+C:\Codelearnershub\Assessment2\RectangleArea\obj\Debug\net5.0\RectangleArea.genruntimeconfig.cache

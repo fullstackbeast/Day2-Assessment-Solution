@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.exe
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.deps.json
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.runtimeconfig.json
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.dll
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\ref\SwapVowels.dll
+C:\Codelearnershub\Assessment2\SwapVowels\bin\Debug\net5.0\SwapVowels.pdb
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.dll
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\ref\SwapVowels.dll
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.pdb
+C:\Codelearnershub\Assessment2\SwapVowels\obj\Debug\net5.0\SwapVowels.genruntimeconfig.cache

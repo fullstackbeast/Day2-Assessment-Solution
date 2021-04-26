@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.exe
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.deps.json
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.runtimeconfig.json
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.dll
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\ref\SquareRoot.dll
+C:\Codelearnershub\Assessment2\SquareRoot\bin\Debug\net5.0\SquareRoot.pdb
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.dll
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\ref\SquareRoot.dll
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.pdb
+C:\Codelearnershub\Assessment2\SquareRoot\obj\Debug\net5.0\SquareRoot.genruntimeconfig.cache

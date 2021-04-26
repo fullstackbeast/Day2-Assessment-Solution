@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.exe
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.deps.json
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.runtimeconfig.json
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.dll
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\ref\StudentDetails.dll
+C:\Codelearnershub\Assessment2\StudentDetails\bin\Debug\net5.0\StudentDetails.pdb
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.dll
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\ref\StudentDetails.dll
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.pdb
+C:\Codelearnershub\Assessment2\StudentDetails\obj\Debug\net5.0\StudentDetails.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.exe
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.deps.json
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.runtimeconfig.json
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.dll
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\ref\OddIndex.dll
+C:\Codelearnershub\Assessment2\OddIndex\bin\Debug\net5.0\OddIndex.pdb
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.dll
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\ref\OddIndex.dll
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.pdb
+C:\Codelearnershub\Assessment2\OddIndex\obj\Debug\net5.0\OddIndex.genruntimeconfig.cache

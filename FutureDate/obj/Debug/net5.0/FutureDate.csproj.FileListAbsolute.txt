@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.exe
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.deps.json
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.runtimeconfig.json
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.dll
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\ref\FutureDate.dll
+C:\Codelearnershub\Assessment2\FutureDate\bin\Debug\net5.0\FutureDate.pdb
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.dll
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\ref\FutureDate.dll
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.pdb
+C:\Codelearnershub\Assessment2\FutureDate\obj\Debug\net5.0\FutureDate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.exe
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.deps.json
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.runtimeconfig.json
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.dll
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\ref\Lottery.dll
+C:\Codelearnershub\Assessment2\Lottery\bin\Debug\net5.0\Lottery.pdb
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.dll
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\ref\Lottery.dll
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.pdb
+C:\Codelearnershub\Assessment2\Lottery\obj\Debug\net5.0\Lottery.genruntimeconfig.cache

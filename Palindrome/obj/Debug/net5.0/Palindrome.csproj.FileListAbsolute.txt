@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.exe
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.dll
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+C:\Codelearnershub\Assessment2\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.dll
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+C:\Codelearnershub\Assessment2\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache

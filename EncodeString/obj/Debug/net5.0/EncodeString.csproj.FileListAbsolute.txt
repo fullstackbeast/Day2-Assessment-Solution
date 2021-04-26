@@ -1,0 +1,16 @@
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.exe
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.deps.json
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.runtimeconfig.json
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.runtimeconfig.dev.json
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.dll
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\ref\EncodeString.dll
+C:\Codelearnershub\Assessment2\EncodeString\bin\Debug\net5.0\EncodeString.pdb
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.csprojAssemblyReference.cache
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.AssemblyInfoInputs.cache
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.AssemblyInfo.cs
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.dll
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\ref\EncodeString.dll
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.pdb
+C:\Codelearnershub\Assessment2\EncodeString\obj\Debug\net5.0\EncodeString.genruntimeconfig.cache
