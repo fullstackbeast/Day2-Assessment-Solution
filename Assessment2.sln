@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureDate", "FutureDate\Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{4AEF6792-59F8-4ACF-B25C-3E5B9384C5F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAndAverage", "SumAndAverage\SumAndAverage.csproj", "{4B190436-2161-419C-A9F2-63695950B75A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,5 +130,17 @@ Global
 		{4AEF6792-59F8-4ACF-B25C-3E5B9384C5F1}.Release|x64.Build.0 = Release|Any CPU
 		{4AEF6792-59F8-4ACF-B25C-3E5B9384C5F1}.Release|x86.ActiveCfg = Release|Any CPU
 		{4AEF6792-59F8-4ACF-B25C-3E5B9384C5F1}.Release|x86.Build.0 = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|x64.Build.0 = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|x64.ActiveCfg = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|x64.Build.0 = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B190436-2161-419C-A9F2-63695950B75A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
