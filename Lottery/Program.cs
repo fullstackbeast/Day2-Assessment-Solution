@@ -22,7 +22,8 @@ namespace Lottery
             {
                 int userDigit = 0;
 
-                bool isNumbers = int.TryParse(userInput, out userDigit); //parsing user input into string and validating to make sure its a number only.  
+                bool isNumbers = int.TryParse(userInput, out userDigit); 
+                //parsing user input into string and validating to make sure its a number only.  
 
                 if (!isNumbers) // checking if it is a valid number
                 {
@@ -30,7 +31,8 @@ namespace Lottery
                 }
                 else
                 {
-                    if (userDigit == randomDigit) //checking if the user digit is the same as the gnerated random digits
+                    if (userDigit == randomDigit) 
+                    //checking if the user digit is the same as the gnerated random digits
                     {
                         Console.WriteLine("You guessed the digits correctly and you have won $10,000!!!"); //displaying the message to the user if the number is guessed correctly
                     }
@@ -47,9 +49,11 @@ namespace Lottery
                             if (randomDigitString.IndexOf(userDigitString[i]) != -1) correctDigit++; //getting the count of correct digits
                         }
 
-                        if (correctDigit > 0) Console.WriteLine($"You got {correctDigit} numbers correctly. You have won ${correctDigit * 1000}!!!"); // displaying the user prize based on the number of correct digits: $1000 per correct digit
+                        if (correctDigit > 0) Console.WriteLine($"You got {correctDigit} numbers correctly. You have won ${correctDigit * 1000}!!!"); 
+                        // displaying the user prize based on the number of correct digits: $1000 per correct digit
                         
-                        else Console.WriteLine("You guessed wrong!!!"); // displaying the message to the user if none of the digit is correct
+                        else Console.WriteLine("You guessed wrong!!!"); 
+                        // displaying the message to the user if none of the digit is correct
 
                     }
                 }

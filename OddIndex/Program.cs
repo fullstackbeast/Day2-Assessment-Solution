@@ -6,7 +6,9 @@ namespace OddIndex
     {
         static void Main(string[] args)
         {
-            int[] numberArray = { 2, 4, 7, 1, 4, 7, 8, 6, 2, 5, 2, 9, 3 };
+            Console.Write("Enter the array (Seperate items by comma ','): ");
+            string [] numberArray = Console.ReadLine().Split(',');
+            // int[] numberArray = { 2, 4, 7, 1, 4, 7, 8, 6, 2, 5, 2, 9, 3 };
 
             int sum = 0;
 
@@ -15,7 +17,8 @@ namespace OddIndex
             {
                 if (i % 2 != 0) //check if the current index is odd
                 {
-                    sum += numberArray[i]; //adding the item at the current odd index to sum
+                    sum += int.Parse(numberArray[i]); 
+                    //convert the item at the current odd index to string and adding it to sum
                 }
             }
 
@@ -24,14 +27,16 @@ namespace OddIndex
 
             while (index < numberArray.Length) // checking if the index varable is still less than the length of the array
             {
-                sum += numberArray[index];//adding the item at the current index to sum
-                
-                index+=2; //increasing the index variable by 2 to make sure only odd values are produced
+                sum += int.Parse(numberArray[index]);
+               //convert the item at the current odd index to string and adding it to sum
+
+                index += 2;
+                //increasing the index variable by 2 to make sure only odd values are produced
             }
 
-            Console.WriteLine($"The sum of the element of the array at odd index is:  {sum}"); 
+            Console.WriteLine($"The sum of the element of the array at odd index is:  {sum}");
             //displaying the output to the user 
-            
+
         }
     }
 }
