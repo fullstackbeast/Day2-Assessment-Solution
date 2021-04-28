@@ -14,7 +14,7 @@ namespace SwapVowels
             char [] userInputArray = userInput.ToCharArray();
 
             for (int i = 0; i < userInputArray.Length; i++)
-            {
+            { 
                 userInputArray[i] = swap.SwapVowel( userInputArray[i]);
             }
 

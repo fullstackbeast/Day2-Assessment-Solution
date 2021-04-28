@@ -2,7 +2,7 @@ namespace EncodeString
 {
     public class Encode
     {
-
+ 
         public string EncodeString(string firstPart, string secondPart)
         {
             char[] encondedFirstPart = firstPart.ToCharArray();
